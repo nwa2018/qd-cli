@@ -1,5 +1,5 @@
 {
-  "name": "qd-cli",
+  "name": "@nw/qd-cli",
   "version": "1.0.0",
   "main": "bin/cli.js",
   "repository": "git@github.com:nwa2018/qd-cli.git",
