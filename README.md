@@ -26,3 +26,10 @@ git clone git@github.com:nwa2018/qd-vue-seed.git
 进到种子文件里面
 qd d 本地开发
 qd b 构建
+
+### 待补充？
+dll打包
+vue的css module支持
+react支持
+transform-vue-jsx vue jsx支持
+transform-decorators-legacy es6装饰器支持
