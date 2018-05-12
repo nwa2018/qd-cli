@@ -1,6 +1,6 @@
 {
   "name": "qd-clis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "bin/cli.js",
   "repository": "git@github.com:nwa2018/qd-cli.git",
   "author": "fujuewen <fujuewen@yy.com>",
