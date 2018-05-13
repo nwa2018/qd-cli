@@ -1,6 +1,6 @@
-# qd-clis
+# qd-cli
 
-> qd-clis支持生成种子项目，开发，与输出生产环境的代码
+> qd-cli支持生成种子项目，开发，与输出生产环境的代码
 
 ### 安装
 ```
@@ -26,7 +26,7 @@ qd d   开发
 qd b   构建
 ```
 ### 特性
-- qd-clis内置了vue,vuex,vue-router,axios,jsonp,ramda,jquery,无需二次安装
+- qd-cli内置了vue,vuex,vue-router,axios,jsonp,ramda,jquery,无需二次安装
 - 支持es6语法，支持async,await,支持装饰器
 - eslint采用standard规范
 - 支持pug语法，stylus, scss
@@ -39,8 +39,8 @@ qd b   构建
 ```
 + vue-project
 +   src
--     index.art
-    index.js        // 每一个xxx.js对应src目录的xxx.art，开发多页应用只需要增加这两个文件
+-     index.js
+    index.art       // 每一个xxx.art对应src目录的xxx.js，开发多页应用只需要增加这两个文件
     mock.config.js  // 必须：mock服务的配置文件
     config.js       // 必须：配置文件
 ```
